@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+    margin: 12px;
+    padding: 12px;
+}
+
+.heading {}
+
+.heading a {
+    color: gray;
+    font-size: 40px;
+}
